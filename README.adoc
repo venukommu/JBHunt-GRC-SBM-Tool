@@ -48,7 +48,7 @@ We are working on automated upgrade from Spring Boot 2.7 to Spring Boot 3.0.
 === Try the Spring Boot Upgrade Tool
 NOTE: **Use JDK 17**
 
-. Download the https://github.com/spring-projects-experimental/spring-boot-migrator/releases/latest/download/spring-boot-upgrade.jar[spring-boot-upgrade.jar]
+. Download the https://github.com/venukommu/JBHunt-GRC-SBM-Tool/releases/download/v0.0.1/jbhuntgrc-sbu-tool.jar[jbhuntgrc-sbu-tool.jar]
 . Run `java -jar --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED spring-boot-upgrade.jar <path-to-application>`
 
 If any of your applications is on 2.7 and uses Maven (Gradle is currently not supported), we'd be happy if you
@@ -81,12 +81,6 @@ These specifications are covered (to some extent and varying completeness)
 * JPA
 * ejb-jar.xml
 * weblogic-ejb-jar.xml
-
-Click the image to watch a demo video [16:57]
-
-ifdef::env-github[]
-image:https://img.youtube.com/vi/PnvsLafekWE/maxresdefault.jpg[link=https://www.youtube.com/embed/PnvsLafekWE]
-endif::[]
 
 == How SBM works
 
