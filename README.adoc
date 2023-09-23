@@ -18,7 +18,7 @@ image:https://img.shields.io/github/discussions/spring-projects-experimental/spr
 image:https://img.shields.io/gitter/room/spring-boot-migrator/community?color=007EC6&logo=gitter&style=for-the-badge[link="https://gitter.im/spring-boot-migrator/community"]
 
 
-IMPORTANT: **We're revamping Spring Boot Migrator. https://github.com/spring-projects-experimental/spring-boot-migrator/discussions/859[Read more here].**
+IMPORTANT: **JB Hunt GRC SBM Tool - This is a migrator tool which works only for JB Hunt services.**
 
 
 
@@ -44,11 +44,6 @@ ____
 == Spring Boot 3.0 Upgrade - Interactive Web UI
 We are working on automated upgrade from Spring Boot 2.7 to Spring Boot 3.0.
 
-Click the image to watch a demo video [2:26]
-
-ifdef::env-github[]
-image:https://img.youtube.com/vi/RKXblzn8lFg/maxresdefault.jpg[link=https://www.youtube.com/embed/RKXblzn8lFg]
-endif::[]
 
 === Try the Spring Boot Upgrade Tool
 NOTE: **Use JDK 17**
