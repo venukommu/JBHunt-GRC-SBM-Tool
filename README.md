@@ -1,2 +1,2 @@
-# JBHunt-GRC-SBM-Tool
-JBHunt GRC SBM Tool
+# SBM-Tool
+SBM Tool
